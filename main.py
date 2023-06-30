@@ -1,7 +1,6 @@
 import subprocess
 import sys
 import argparse
-import threading
 
 parser = argparse.ArgumentParser()
 
